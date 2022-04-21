@@ -13,6 +13,7 @@ body {
 body,
 html {
   background: #fff;
+  box-sizing: border;
 }
 div,
 h1,
@@ -48,10 +49,18 @@ ul {
   padding: 10px 10px;
 }
 .navbar .brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
+.navbar .brand-icon svg{
+  font-size: 25px;
+}
+
 .navbar .brand-icon a {
   color: #001d51;
-  font-size: 20px;
+  font-size: 14px;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 700;
@@ -106,8 +115,6 @@ ul {
   padding: 10px 10px;
 }
 
-.brands {
-}
 .brands h3 {
   font-size: 32px;
   margin: 0px 22px;

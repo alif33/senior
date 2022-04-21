@@ -1,10 +1,14 @@
 import { AiOutlineMenu } from "react-icons/ai";
+import { RiArrowLeftSLine } from "react-icons/ri";
 
 const Navbar = () => {
   return (
     <div className="navbar">
       <div className="brand-icon">
-        <a href="#">Yolod <span>active</span> senior</a>
+        <RiArrowLeftSLine />
+        <a href="#">
+          Yolod <span>active</span> senior
+        </a>
       </div>
       <div className="menu-icon">
         <p>menu</p>
