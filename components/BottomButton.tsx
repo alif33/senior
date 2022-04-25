@@ -1,8 +1,13 @@
 import { AiOutlineHome } from "react-icons/ai";
 import { MdOutlineDashboard } from "react-icons/md";
 import { BsBagPlus } from "react-icons/bs";
+import { NextPage } from "next";
 
-const BottomButton = () => {
+interface propValue {
+    status: boolean
+}
+
+const BottomButton = (props: propValue) => {
     return (
         <div className="bottomButton">
             <ul>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path data-name="사각형 10" style="fill:transparent" d="M0 0h48v48H0z"/>
+    <g data-name="그룹 297">
+        <g data-name="그룹 295">
+            <g data-name="그룹 290">
+                <g data-name="그룹 289">
+                    <path data-name="패스 209" d="M850.53 920.2h6.756v5.357h-6.756z" transform="translate(-841.908 -902.91)" style="fill:#5b85d9"/>
+                </g>
+            </g>
+            <g data-name="그룹 292">
+                <g data-name="그룹 291">
+                    <path data-name="패스 210" d="M1173.065 920.2h6.756v5.357h-6.756z" transform="translate(-1140.611 -902.91)" style="fill:#5b85d9"/>
+                </g>
+            </g>
+            <g data-name="그룹 293">
+                <path data-name="패스 211" d="M1000.133 1036.709h8.48v11.645h-8.48z" transform="translate(-980.457 -1010.806)" style="fill:#5b85d9"/>
+            </g>
+            <g data-name="그룹 294">
+                <path data-name="패스 212" d="M1000.133 936.251h8.48v4.158h-8.48z" transform="translate(-980.457 -917.771)" style="fill:#5b85d9"/>
+            </g>
+            <path data-name="패스 213" d="M1000.133 838.986h8.48v4.157h-8.48z" transform="translate(-980.457 -827.693)" style="fill:#5b85d9"/>
+        </g>
+        <g data-name="그룹 296">
+            <path data-name="패스 214" d="M838.608 810.7h-2.144v-19.518a.739.739 0 0 0-.739-.739h-6.017v-8.077h1.222a.739.739 0 0 0 0-1.478h-21a.739.739 0 0 0 0 1.478h1.222v8.077h-6.017a.739.739 0 0 0-.739.739V810.7h-2.144a.739.739 0 0 0-.739.739v3.31a.739.739 0 0 0 .739.739h36.354a.739.739 0 0 0 .739-.739v-3.31a.739.739 0 0 0-.737-.739zm-3.622-18.776v8.34h-2.713a.739.739 0 0 0 0 1.478h2.713v3.029h-2.713a.739.739 0 0 0 0 1.478h2.713v4.451h-5.278v-18.779zm-6.756-9.555V810.7h-15.6v-28.334zm-22.355 23.88h2.713a.739.739 0 0 0 0-1.478h-2.713v-3.029h2.713a.739.739 0 0 0 0-1.478h-2.713v-8.34h5.278V810.7h-5.278zm31.994 7.76h-34.876v-1.832h34.876z" transform="translate(-796.515 -773.888)" style="fill:#111828"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path data-name="사각형 10" style="fill:transparent" d="M0 0h24v24H0z"/>
+    <g data-name="그룹 297">
+        <g data-name="그룹 295">
+            <g data-name="그룹 290">
+                <g data-name="그룹 289">
+                    <path data-name="패스 209" d="M850.53 920.2h4.155v3.3h-4.155z" transform="translate(-848.303 -912.175)" style="fill:#dc0b20"/>
+                </g>
+            </g>
+            <g data-name="그룹 292">
+                <g data-name="그룹 291">
+                    <path data-name="패스 210" d="M1173.065 920.2h4.155v3.3h-4.155z" transform="translate(-1156.182 -912.175)" style="fill:#dc0b20"/>
+                </g>
+            </g>
+            <g data-name="그룹 293">
+                <path data-name="패스 211" d="M1000.133 1036.709h5.215v7.161h-5.215z" transform="translate(-991.108 -1023.386)" style="fill:#dc0b20"/>
+            </g>
+            <g data-name="그룹 294">
+                <path data-name="패스 212" d="M1000.133 936.251h5.215v2.557h-5.215z" transform="translate(-991.108 -927.492)" style="fill:#dc0b20"/>
+            </g>
+            <path data-name="패스 213" d="M1000.133 838.986h5.215v2.557h-5.215z" transform="translate(-991.108 -834.647)" style="fill:#dc0b20"/>
+        </g>
+        <g data-name="그룹 296">
+            <path data-name="패스 214" d="M824.326 799.219h-1.318v-12a.455.455 0 0 0-.454-.454h-3.7V781.8h.751a.454.454 0 1 0 0-.909h-12.914a.454.454 0 0 0 0 .909h.751v4.967h-3.7a.454.454 0 0 0-.454.454v12h-1.318a.454.454 0 0 0-.454.454v2.035a.454.454 0 0 0 .454.454h22.356a.454.454 0 0 0 .454-.454v-2.035a.454.454 0 0 0-.454-.456zm-2.226-11.546v5.127h-1.67a.454.454 0 0 0 0 .909h1.67v1.862h-1.67a.454.454 0 0 0 0 .909h1.67v2.737h-3.246v-11.544zm-4.155-5.876v17.422h-9.592V781.8zM804.2 796.482h1.668a.454.454 0 0 0 0-.909H804.2v-1.862h1.668a.454.454 0 0 0 0-.909H804.2v-5.129h3.246v11.546H804.2zm19.675 4.772h-21.451v-1.126h21.447z" transform="translate(-801.515 -779.189)" style="fill:#111828"/>
+        </g>
+    </g>
+</svg>
