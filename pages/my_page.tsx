@@ -8,13 +8,13 @@ const my_page = () => {
       <div className="container">
         <div className="my-card">
           <div className="my-name">
-            <h2>developer</h2>
-            <h3>web developer</h3>
+            <h2>마이페이지</h2>
+            <h3><b>홍길동</b>님 환영합니다.</h3>
           </div>
           <div className="my-pic">
-            <FaUserAlt />
+          <img src="img/drawable/icon_profile.svg" alt="" />
             <span>
-              <FaPencilAlt />
+          <img src="img/drawable/edir_icon.svg" alt="" />
             </span>
           </div>
         </div>

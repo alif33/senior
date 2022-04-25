@@ -3,9 +3,11 @@ const Header2 = () => {
     <div className="header header2">
       <div className="container">
         <div className="left-part">
-          <h3>Lorem Ipsum is simply dummy</h3>
-          <button className="main-btn btn2">Get Start</button>
-          <button className="main-btn">Get Start</button>
+          <h3>
+            <b>로그인</b> 하시고 다양한 혜택을 확인하세요
+          </h3>
+          <button className="white-btn">로그인</button>
+          <button className="main-btn">회원가입</button>
         </div>
       </div>
     </div>

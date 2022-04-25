@@ -17,14 +17,17 @@ const review_2 = () => {
               <GoStar className="view" />
             </div>
           </div>
-          <h1>Lorem Ipsum is</h1>
+          <h1>리뷰제목 영역입니다.</h1>
           <p className="date">2022.03.23</p>
           <div className="review2-content">
-            <img src="./img/review-img.png" alt="img" />
+            <img src="./img/drawable-hdpi/img_01.png" alt="img" />
 
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, ipsa
-              pariatur. Totam labore corporis facere, repudiandae aspernatur vel
+              문의내용입력란입니다. 악이며, 꽃 우리는 있는가? 아 봄바람이다.
+              따뜻한 과실이 속에서 인생의 있는가 있는 곧 때에, 사막이다. 사는가
+              역사를 끝까지 뛰노는 피에 길을하였으며, 심장은 사막이다. 대고,
+              살았으며 너의 되 는 인생에 사막이다. 그러므로 곳으로 품고 눈에
+              살았으 며 가치를 동력은 스며들어 피다.
             </p>
           </div>
         </div>
@@ -32,10 +35,10 @@ const review_2 = () => {
       <div className="container">
         <div className="row my-4">
           <div className="col-6">
-            <button>Start</button>
+            <button>이전 후기 보기</button>
           </div>
           <div className="col-6">
-            <button>Start</button>
+            <button><b>다음 후기 보기</b></button>
           </div>
         </div>
       </div>

@@ -5,7 +5,7 @@ const review = () => {
   return (
     <div>
       <Navbar />
-      <h1 className="review-title">Lmj</h1>
+      <h1 className="review-title">리뷰</h1>
       <ReviewCard />
       <ReviewCard />
       <ReviewCard />
@@ -13,8 +13,8 @@ const review = () => {
       <ReviewCard />
       <ReviewCard />
      <div className="container">
-     <button className="normal">Ipsum is simply</button>
-      <button className="main-btn red-btn">Ipsum is simply</button>
+     <button className="normal">후기 더보기</button>
+      <button className="main-btn red-btn">후기 작성하기</button>
      </div>
     </div>
   );

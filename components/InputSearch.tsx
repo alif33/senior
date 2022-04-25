@@ -3,9 +3,9 @@ import {MdArrowForwardIos} from "react-icons/md";
 const InputSearch = () => {
     return (
         <div className="inputSearch">
-            <AiTwotoneSound/>
+           <img src="img/drawable/notice_icon_01.svg" alt="" />
             <input type="text" placeholder=" dummy text of the" />
-            <MdArrowForwardIos/>
+            <img src="img/drawable/arrow_btn.svg" alt="" />
         </div>
     );
 };
