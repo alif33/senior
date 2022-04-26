@@ -13,7 +13,7 @@ const silver_facility_page = () => {
         referrerPolicy="no-referrer-when-downgrade"
       ></iframe>
 
-      <BottomButton />
+      <BottomButton status={'menu'} />
     </div>
   );
 };

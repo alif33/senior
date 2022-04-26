@@ -20,7 +20,7 @@ const silver_facility_page_02 = () => {
           </div>
           <button>buy</button>
         </div>
-        <BottomButton status={true} />
+        <BottomButton status={""} />
       </div>
     </div>
   );

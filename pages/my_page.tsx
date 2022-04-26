@@ -24,16 +24,46 @@ const my_page = () => {
           <a href="#">
             <div>
               <span>
-                <FaRegUser />
+              <img src="img/drawable/icon_info.svg" alt="" />
               </span>
-              <p>sitamet</p>
+              <p>나의 프로필</p>
+            </div>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <div>
+              <span>
+              <img src="img/drawable/icon_bell.svg" alt="" />
+              </span>
+              <p>알림 설정</p>
+            </div>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <div>
+              <span>
+              <img src="img/drawable/icon_q.svg" alt="" />
+              </span>
+              <p>1:1 문의</p>
+            </div>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <div>
+              <span>
+              <img src="img/drawable/icon_notice.svg" alt="" />
+              </span>
+              <p>공지사항</p>
             </div>
           </a>
         </li>
       </ul>
       <div className="container">
           <button>
-              lorem ipsum
+          로그아웃
           </button>
       </div>
     </div>

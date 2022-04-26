@@ -1,27 +1,27 @@
+import { NextPage} from "next";
 import { AiOutlineHome } from "react-icons/ai";
 import { MdOutlineDashboard } from "react-icons/md";
 import { BsBagPlus } from "react-icons/bs";
-import { NextPage } from "next";
 
-interface propValue {
-    status: boolean
+interface  propValue{
+    status: string
 }
 
-const BottomButton = (props: propValue) => {
+const BottomButton: NextPage<propValue> = ({status}) => {
     return (
         <div className="bottomButton">
             <ul>
-                <li className="active">
-                    <span><MdOutlineDashboard/></span>
-                    <p>Menu</p>
+                <li className={status === 'menu' ? "active" : "okay"}>
+                    <span><img src="img/drawable/icon_all.svg" alt="" /></span>
+                    <p>전체</p>
                 </li>
-                <li>
-                    <span><AiOutlineHome/></span>
-                    <p>Home</p>
+                <li className={status === 'home' ? "active" : "okay"}>
+                    <span><img src="img/drawable/icon_town.svg" alt="" /></span>
+                    <p>실버타운</p>
                 </li>
-                <li>
-                    <span><BsBagPlus /></span>
-                    <p>Add</p>
+                <li className={status === 'add' ? "active" : "okay"}>
+                    <span><img src="img/drawable/icon_hospital.svg" alt="" /></span>
+                    <p>병원</p>
                 </li>
             </ul>
         </div>
