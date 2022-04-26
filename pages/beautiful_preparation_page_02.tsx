@@ -21,13 +21,14 @@ const beautiful_preparation_page_02 = () => {
           
       <div className="preparation-menu">
         <ul>
-          <li className="active">Lorem Ipsum is</li>
-          <li>Lorem Ipsum is</li>
-          <li>Lorem Ipsum is</li>
-          <li>Lorem Ipsum is</li>
+          <li className="active">전체 안치시설</li>
+          <li>자연장</li>
+          <li>봉안당(실내)</li>
+          <li>봉안당(야외)</li>
+          <li>봉안묘</li>
         </ul>
       </div>
-      <BottomButton />
+      <BottomButton status={"home"} silver_facility={false} />
       </div>
     </div>
   );

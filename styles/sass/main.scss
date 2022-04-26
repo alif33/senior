@@ -569,8 +569,6 @@ p.date {
     font-size: 18px;
     margin-top: 16px;
   }
-  h1 {
-  }
   p {
     color: #818181;
     font-size: 12px;
@@ -732,25 +730,34 @@ p.date {
     .price {
       h2 {
         color: $high;
-        font-size: 22px;
-
+        font-size: 16px;
+        letter-spacing: -2px;
+        
         span {
           color: $Medium;
+          letter-spacing: -1px;
+          font-size: 14px;
         }
       }
       h5 {
         color: $Medium;
+        letter-spacing: -1px;
+        font-size: 14px;
       }
       p {
         color: $Medium;
         margin-top: 7px;
+        letter-spacing: -1px;
+        font-size: 13px;
         span {
           color: $high;
+          margin-left: 10px;
         }
       }
     }
     img {
       border-radius: 5px;
+      width: 70px;
     }
   }
 

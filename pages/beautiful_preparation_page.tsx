@@ -2,8 +2,8 @@ import BottomButton from "../components/BottomButton";
 import Navbar from "../components/Navbar";
 
 const beautiful_preparation_page = () => {
-    return (
-        <div className="silver_facility_page">
+  return (
+    <div className="silver_facility_page">
       <Navbar />
 
       <iframe
@@ -12,10 +12,11 @@ const beautiful_preparation_page = () => {
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
       ></iframe>
-
-      <BottomButton />
+      <div className="bottom-menu">
+        <BottomButton status={"menu"} silver_facility={false} />
+      </div>
     </div>
-    );
+  );
 };
 
 export default beautiful_preparation_page;
